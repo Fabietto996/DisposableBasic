@@ -79,7 +79,7 @@ return [
     'speed'     => 'Velocità',
     'sta'       => 'Sched. Arrivo',
     'std'       => 'Sched. Partenza',
-    'submitted' => 'Submitted',
+    'submitted' => 'Inviato',
     // Airline - Airport - Hub
     'aldetails' => 'Comp.Aerea Info',
     'apdetails' => 'Dettagli Aeroporto',

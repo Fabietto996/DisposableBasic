@@ -112,6 +112,8 @@ return [
     'totflight'   => 'Totale Voli',
     'totfuel'     => 'Totale Carburante Usato',
     'tottime'     => 'Totale Tempo in Volo',
+    'fdm'         => 'Stable Approaches',
+    'assignment'  => 'Assegnazioni Mensili',
     // Map Widget
     'flights_map'  => 'Mappa Voli',
     'personal_map' => 'Miei Voli / Mappa PIREP',
